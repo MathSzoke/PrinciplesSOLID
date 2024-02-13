@@ -1,0 +1,14 @@
+D:\Projects\Projects C#\PrinciplesSOLID\L\LiskovSubstituionPrinciple\bin\Debug\net8.0\LiskovSubstituionPrinciple.exe
+D:\Projects\Projects C#\PrinciplesSOLID\L\LiskovSubstituionPrinciple\bin\Debug\net8.0\LiskovSubstituionPrinciple.deps.json
+D:\Projects\Projects C#\PrinciplesSOLID\L\LiskovSubstituionPrinciple\bin\Debug\net8.0\LiskovSubstituionPrinciple.runtimeconfig.json
+D:\Projects\Projects C#\PrinciplesSOLID\L\LiskovSubstituionPrinciple\bin\Debug\net8.0\LiskovSubstituionPrinciple.dll
+D:\Projects\Projects C#\PrinciplesSOLID\L\LiskovSubstituionPrinciple\bin\Debug\net8.0\LiskovSubstituionPrinciple.pdb
+D:\Projects\Projects C#\PrinciplesSOLID\L\LiskovSubstituionPrinciple\obj\Debug\net8.0\LiskovSubstituionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Projects C#\PrinciplesSOLID\L\LiskovSubstituionPrinciple\obj\Debug\net8.0\LiskovSubstituionPrinciple.AssemblyInfoInputs.cache
+D:\Projects\Projects C#\PrinciplesSOLID\L\LiskovSubstituionPrinciple\obj\Debug\net8.0\LiskovSubstituionPrinciple.AssemblyInfo.cs
+D:\Projects\Projects C#\PrinciplesSOLID\L\LiskovSubstituionPrinciple\obj\Debug\net8.0\LiskovSubstituionPrinciple.csproj.CoreCompileInputs.cache
+D:\Projects\Projects C#\PrinciplesSOLID\L\LiskovSubstituionPrinciple\obj\Debug\net8.0\LiskovSubstituionPrinciple.dll
+D:\Projects\Projects C#\PrinciplesSOLID\L\LiskovSubstituionPrinciple\obj\Debug\net8.0\refint\LiskovSubstituionPrinciple.dll
+D:\Projects\Projects C#\PrinciplesSOLID\L\LiskovSubstituionPrinciple\obj\Debug\net8.0\LiskovSubstituionPrinciple.pdb
+D:\Projects\Projects C#\PrinciplesSOLID\L\LiskovSubstituionPrinciple\obj\Debug\net8.0\LiskovSubstituionPrinciple.genruntimeconfig.cache
+D:\Projects\Projects C#\PrinciplesSOLID\L\LiskovSubstituionPrinciple\obj\Debug\net8.0\ref\LiskovSubstituionPrinciple.dll

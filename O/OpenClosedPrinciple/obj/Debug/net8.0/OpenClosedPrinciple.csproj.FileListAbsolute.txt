@@ -1,0 +1,14 @@
+D:\Projects\Projects C#\PrinciplesSOLID\O\OpenClosedPrinciple\bin\Debug\net8.0\OpenClosedPrinciple.exe
+D:\Projects\Projects C#\PrinciplesSOLID\O\OpenClosedPrinciple\bin\Debug\net8.0\OpenClosedPrinciple.deps.json
+D:\Projects\Projects C#\PrinciplesSOLID\O\OpenClosedPrinciple\bin\Debug\net8.0\OpenClosedPrinciple.runtimeconfig.json
+D:\Projects\Projects C#\PrinciplesSOLID\O\OpenClosedPrinciple\bin\Debug\net8.0\OpenClosedPrinciple.dll
+D:\Projects\Projects C#\PrinciplesSOLID\O\OpenClosedPrinciple\bin\Debug\net8.0\OpenClosedPrinciple.pdb
+D:\Projects\Projects C#\PrinciplesSOLID\O\OpenClosedPrinciple\obj\Debug\net8.0\OpenClosedPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Projects C#\PrinciplesSOLID\O\OpenClosedPrinciple\obj\Debug\net8.0\OpenClosedPrinciple.AssemblyInfoInputs.cache
+D:\Projects\Projects C#\PrinciplesSOLID\O\OpenClosedPrinciple\obj\Debug\net8.0\OpenClosedPrinciple.AssemblyInfo.cs
+D:\Projects\Projects C#\PrinciplesSOLID\O\OpenClosedPrinciple\obj\Debug\net8.0\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+D:\Projects\Projects C#\PrinciplesSOLID\O\OpenClosedPrinciple\obj\Debug\net8.0\OpenClosedPrinciple.dll
+D:\Projects\Projects C#\PrinciplesSOLID\O\OpenClosedPrinciple\obj\Debug\net8.0\refint\OpenClosedPrinciple.dll
+D:\Projects\Projects C#\PrinciplesSOLID\O\OpenClosedPrinciple\obj\Debug\net8.0\OpenClosedPrinciple.pdb
+D:\Projects\Projects C#\PrinciplesSOLID\O\OpenClosedPrinciple\obj\Debug\net8.0\OpenClosedPrinciple.genruntimeconfig.cache
+D:\Projects\Projects C#\PrinciplesSOLID\O\OpenClosedPrinciple\obj\Debug\net8.0\ref\OpenClosedPrinciple.dll

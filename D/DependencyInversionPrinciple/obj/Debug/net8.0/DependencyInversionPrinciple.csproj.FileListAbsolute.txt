@@ -1,0 +1,14 @@
+D:\Projects\Projects C#\PrinciplesSOLID\D\DependencyInversionPrinciple\bin\Debug\net8.0\DependencyInversionPrinciple.exe
+D:\Projects\Projects C#\PrinciplesSOLID\D\DependencyInversionPrinciple\bin\Debug\net8.0\DependencyInversionPrinciple.deps.json
+D:\Projects\Projects C#\PrinciplesSOLID\D\DependencyInversionPrinciple\bin\Debug\net8.0\DependencyInversionPrinciple.runtimeconfig.json
+D:\Projects\Projects C#\PrinciplesSOLID\D\DependencyInversionPrinciple\bin\Debug\net8.0\DependencyInversionPrinciple.dll
+D:\Projects\Projects C#\PrinciplesSOLID\D\DependencyInversionPrinciple\bin\Debug\net8.0\DependencyInversionPrinciple.pdb
+D:\Projects\Projects C#\PrinciplesSOLID\D\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Projects C#\PrinciplesSOLID\D\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.AssemblyInfoInputs.cache
+D:\Projects\Projects C#\PrinciplesSOLID\D\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.AssemblyInfo.cs
+D:\Projects\Projects C#\PrinciplesSOLID\D\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+D:\Projects\Projects C#\PrinciplesSOLID\D\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.dll
+D:\Projects\Projects C#\PrinciplesSOLID\D\DependencyInversionPrinciple\obj\Debug\net8.0\refint\DependencyInversionPrinciple.dll
+D:\Projects\Projects C#\PrinciplesSOLID\D\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.pdb
+D:\Projects\Projects C#\PrinciplesSOLID\D\DependencyInversionPrinciple\obj\Debug\net8.0\DependencyInversionPrinciple.genruntimeconfig.cache
+D:\Projects\Projects C#\PrinciplesSOLID\D\DependencyInversionPrinciple\obj\Debug\net8.0\ref\DependencyInversionPrinciple.dll

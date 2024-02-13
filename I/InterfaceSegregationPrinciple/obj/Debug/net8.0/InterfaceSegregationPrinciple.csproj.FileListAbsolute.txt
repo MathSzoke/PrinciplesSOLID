@@ -1,0 +1,14 @@
+D:\Projects\Projects C#\PrinciplesSOLID\I\InterfaceSegregationPrinciple\bin\Debug\net8.0\InterfaceSegregationPrinciple.exe
+D:\Projects\Projects C#\PrinciplesSOLID\I\InterfaceSegregationPrinciple\bin\Debug\net8.0\InterfaceSegregationPrinciple.deps.json
+D:\Projects\Projects C#\PrinciplesSOLID\I\InterfaceSegregationPrinciple\bin\Debug\net8.0\InterfaceSegregationPrinciple.runtimeconfig.json
+D:\Projects\Projects C#\PrinciplesSOLID\I\InterfaceSegregationPrinciple\bin\Debug\net8.0\InterfaceSegregationPrinciple.dll
+D:\Projects\Projects C#\PrinciplesSOLID\I\InterfaceSegregationPrinciple\bin\Debug\net8.0\InterfaceSegregationPrinciple.pdb
+D:\Projects\Projects C#\PrinciplesSOLID\I\InterfaceSegregationPrinciple\obj\Debug\net8.0\InterfaceSegregationPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Projects C#\PrinciplesSOLID\I\InterfaceSegregationPrinciple\obj\Debug\net8.0\InterfaceSegregationPrinciple.AssemblyInfoInputs.cache
+D:\Projects\Projects C#\PrinciplesSOLID\I\InterfaceSegregationPrinciple\obj\Debug\net8.0\InterfaceSegregationPrinciple.AssemblyInfo.cs
+D:\Projects\Projects C#\PrinciplesSOLID\I\InterfaceSegregationPrinciple\obj\Debug\net8.0\InterfaceSegregationPrinciple.csproj.CoreCompileInputs.cache
+D:\Projects\Projects C#\PrinciplesSOLID\I\InterfaceSegregationPrinciple\obj\Debug\net8.0\InterfaceSegregationPrinciple.dll
+D:\Projects\Projects C#\PrinciplesSOLID\I\InterfaceSegregationPrinciple\obj\Debug\net8.0\refint\InterfaceSegregationPrinciple.dll
+D:\Projects\Projects C#\PrinciplesSOLID\I\InterfaceSegregationPrinciple\obj\Debug\net8.0\InterfaceSegregationPrinciple.pdb
+D:\Projects\Projects C#\PrinciplesSOLID\I\InterfaceSegregationPrinciple\obj\Debug\net8.0\InterfaceSegregationPrinciple.genruntimeconfig.cache
+D:\Projects\Projects C#\PrinciplesSOLID\I\InterfaceSegregationPrinciple\obj\Debug\net8.0\ref\InterfaceSegregationPrinciple.dll

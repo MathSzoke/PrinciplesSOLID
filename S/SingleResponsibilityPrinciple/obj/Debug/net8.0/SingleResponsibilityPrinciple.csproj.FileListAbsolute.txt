@@ -1,0 +1,14 @@
+D:\Projects\Projects C#\PrinciplesSOLID\S\SingleResponsibilityPrinciple\bin\Debug\net8.0\SingleResponsibilityPrinciple.exe
+D:\Projects\Projects C#\PrinciplesSOLID\S\SingleResponsibilityPrinciple\bin\Debug\net8.0\SingleResponsibilityPrinciple.deps.json
+D:\Projects\Projects C#\PrinciplesSOLID\S\SingleResponsibilityPrinciple\bin\Debug\net8.0\SingleResponsibilityPrinciple.runtimeconfig.json
+D:\Projects\Projects C#\PrinciplesSOLID\S\SingleResponsibilityPrinciple\bin\Debug\net8.0\SingleResponsibilityPrinciple.dll
+D:\Projects\Projects C#\PrinciplesSOLID\S\SingleResponsibilityPrinciple\bin\Debug\net8.0\SingleResponsibilityPrinciple.pdb
+D:\Projects\Projects C#\PrinciplesSOLID\S\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Projects C#\PrinciplesSOLID\S\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.AssemblyInfoInputs.cache
+D:\Projects\Projects C#\PrinciplesSOLID\S\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.AssemblyInfo.cs
+D:\Projects\Projects C#\PrinciplesSOLID\S\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+D:\Projects\Projects C#\PrinciplesSOLID\S\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.dll
+D:\Projects\Projects C#\PrinciplesSOLID\S\SingleResponsibilityPrinciple\obj\Debug\net8.0\refint\SingleResponsibilityPrinciple.dll
+D:\Projects\Projects C#\PrinciplesSOLID\S\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.pdb
+D:\Projects\Projects C#\PrinciplesSOLID\S\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.genruntimeconfig.cache
+D:\Projects\Projects C#\PrinciplesSOLID\S\SingleResponsibilityPrinciple\obj\Debug\net8.0\ref\SingleResponsibilityPrinciple.dll
